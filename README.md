@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **maximell78/maximell78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3>Bonjour 👋<br>Je suis Maxime Lacroix-Lemire<br>un étudiant en Programmation Web - Promotion 2022<h3>
+
+<h4>🚨 Voici mes derniers projets! 🚨 <h4>
+
+- [Quelques projets en PHP](https://github.com/maximell78/TravauxPHP)
+- [Quelques projets en REACT](https://github.com/maximell78/TravauxReact)
+- [Projet final en Interface WEB1](https://maximell78.github.io/InterfaceWebProjetFinal/)
+- [Projet final en Interface WEB2](https://maximell78.github.io/Portfolio_InterfaceWeb2/)
+
+<p>
+    📭 Rejoigner moi sur: 
+    <a href="https://maxime.lacroix-lemire.ca" target="_blank">Site Web &nbsp; | &nbsp; </a>
+    <a href="https://www.linkedin.com/in/maximell/" target="_blank">Linkedind &nbsp; | &nbsp; </a>
+    <a href="mailto:maxime.lacroix-lemire@hotmail.com" target="_blank">Email</a>
+</p>
