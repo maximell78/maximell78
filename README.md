@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <p>
     📭 Rejoigner moi sur: &nbsp;
-    <a href="https://maxime.lacroix-lemire.ca" target="_blank">Site Web &nbsp; | &nbsp; </a>
-    <a href="https://www.linkedin.com/in/maximell/" target="_blank">Linkedind &nbsp; | &nbsp; </a>
+    <a href="https://maxime.lacroix-lemire.ca" target="_blank">Site Web</a> &nbsp; | &nbsp; 
+    <a href="https://www.linkedin.com/in/maximell/" target="_blank">Linkedind</a> &nbsp; | &nbsp; 
     <a href="mailto:maxime.lacroix-lemire@hotmail.com" target="_blank">Email</a>
 </p>
     
