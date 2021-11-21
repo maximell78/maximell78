@@ -29,8 +29,8 @@ Here are some ideas to get you started:
     <a href="mailto:maxime.lacroix-lemire@hotmail.com" target="_blank">Email</a>
 </p>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximell78&langs_count=8)]
-[![maximell78's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maximell78)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximell78&langs_count=8)
+![maximell78's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maximell78)
 
 
 
