@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Bonjour 👋<br>Je suis Maxime Lacroix-Lemire<br>un étudiant en Programmation Web - Promotion 2022<h3>
+<h3>Bonjour 👋<br>Je suis Maxime Lacroix-Lemire<br>diplômeé en Programmation Web - Promotion 2022<h3>
 
 <h4>🚨 Voici mes derniers projets! 🚨 <h4>
 
