@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 - [Projet final en Interface WEB2](https://maximell78.github.io/Portfolio_InterfaceWeb2/)
 
 <p>
-    📭 Rejoigner moi sur: &nbsp;
-    <a href="https://maxime.lacroix-lemire.ca" target="_blank">Site Web</a> &nbsp; | &nbsp; 
+    📭 Rejoigner moi sur: &nbsp;     
     <a href="https://www.linkedin.com/in/maximell/" target="_blank">Linkedind</a> &nbsp; | &nbsp; 
     <a href="mailto:maxime.lacroix-lemire@hotmail.com" target="_blank">Email</a>
 </p>
